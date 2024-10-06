@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning GUI development
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am a freshman in high school.
-- Current project: Pluto (daily planner)
+- Current project: ZXP
 
 <!---
 Zybyte85/Zybyte85 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
